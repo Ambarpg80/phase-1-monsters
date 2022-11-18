@@ -6005,6 +6005,12 @@
       "age": 13,
       "description": "131313",
       "id": 1001
+    },
+    {
+      "name": "Cerberus",
+      "age": "5372",
+      "description": "3-headed dog. Cerberus, the terror-inspiring offspring of the primordial monsters Typhoeus and Echidna, was the guard dog of the Greek Underworld. In most literary and artistic representations, Cerberus had three heads and a mane of snakes.",
+      "id": 1002
     }
   ]
 }
